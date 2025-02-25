@@ -1,0 +1,9 @@
+setuptools
+fastapi
+pydantic
+uvicorn
+langchain
+langchain-openai
+langchain-community
+pymongo[srv]==4.6.1
+mongomock==4.1.2
