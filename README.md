@@ -1,4 +1,4 @@
-# talkpacific
+# TalkPacific
 
 Welcome to the development repository for TalkPacific — an AI-powered translation service.
 
@@ -27,4 +27,8 @@ By default the backend service can be accessed at http://localhost:5050 and the 
 
 This is by no means polished at this point. But here is a quick showcase:
 
-![TalkPacific Showcase](readme-showcase.mp4)
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/8ab1732b-c420-479c-9156-747936eda92c" controls style="max-width: 100%;">
+    Your browser does not support the video tag.
+  </video>
+</div>
